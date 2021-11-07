@@ -2,6 +2,7 @@
 - 👀 I’m interested in computer science and trying things that a computer can do.
 - 🌱 I’m currently a computer science major.
 - 💞️ I’m looking to collaborate on computer science projects or researches.
+- 💖 I'm actively open to software engineer intern or job posts.
 - 📫 Contact: levid106999@gmail.com
 
 <!---
